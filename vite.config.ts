@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(({ mode }) => {
   return {
-    base: mode === 'production' ? '/rfrstudy-hub/' : '/',
+    base: mode === 'production' ? '/study-geografi-tingkatan-2-bab-1/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
