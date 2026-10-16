@@ -1,0 +1,6 @@
+{
+  "name": "GeoXplore - Bab 1: Skala dan Jarak",
+  "description": "Aplikasi pembelajaran interaktif Geografi Tingkatan 2 KSSM Bab 1: Skala dan Jarak, dilengkapi makmal peta interaktif, simulasi ukuran pembaris, jangka tolok dan benang, kuiz cabaran dan penukar skala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
